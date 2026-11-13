@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yumemor/cordova-plugin-qiniu.git"
+    "url": "git+https://github.com/akarineren/cordova-plugin-qiniu.git"
   },
   "keywords": [
     "cordova",
@@ -19,10 +19,10 @@
     "ecosystem:cordova",
     "cordova-android"
   ],
-  "author": "yumemor",
+  "author": "akarineren",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yumemor/cordova-plugin-qiniu/issues"
+    "url": "https://github.com/akarineren/cordova-plugin-qiniu/issues"
   },
-  "homepage": "https://github.com/yumemor/cordova-plugin-qiniu#readme"
+  "homepage": "https://github.com/akarineren/cordova-plugin-qiniu#readme"
 }

@@ -1,7 +1,7 @@
 package org.cordova.plugin.qiniu;
 
 /**
- * @author yumemor
+ * @author akarineren
  * 
  *         七牛云配置
  */

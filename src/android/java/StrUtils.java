@@ -3,7 +3,7 @@ package org.cordova.plugin.qiniu;
 import java.lang.annotation.Target;
 
 /**
- * @author yumemor
+ * @author akarineren
  * 
  *         字符串工具类
  */

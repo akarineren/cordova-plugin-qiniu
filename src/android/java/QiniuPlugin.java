@@ -22,7 +22,7 @@ import java.net.URLDecoder;
 import android.util.Log;
 
 /**
- * @author yumemor
+ * @author akarineren
  * 
  *         基于七牛云储存编写的Corodva上传插件
  */

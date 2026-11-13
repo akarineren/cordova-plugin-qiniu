@@ -14,7 +14,7 @@
 ```shell
 #推荐直接把插件下载到根目录，
 
-git clone https://github.com/yumemor/cordova-plugin-qiniu.git
+git clone https://github.com/akarineren/cordova-plugin-qiniu.git
 
 配置文件修改过后 在项目根目录添加插件, 这样不需要修改配置文件后重新编译。
 
@@ -41,7 +41,7 @@ Token在线生成地址：http://jsfiddle.net/gh/get/extjs/4.2/icattlecoder/jsfi
 package org.cordova.plugin.qiniu;
 
 /**
- * @author yumemor
+ * @author akarineren
  * 
  *         七牛云配置
  */
